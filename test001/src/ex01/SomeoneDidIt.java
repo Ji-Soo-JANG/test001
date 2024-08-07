@@ -1,4 +1,4 @@
-pakage ex01;
+package ex01;
 
 public class test(){
   
